@@ -39,3 +39,8 @@ body {
 .tablisa {
 	margin-top: 7%;
 }
+
+td {
+    padding: 2px%; /* Поля в ячейках */ 
+	width: 100%
+   }
