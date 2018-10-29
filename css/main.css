@@ -13,10 +13,10 @@ body {
 }
 
 .container {
-  width: 100%;
-  max-width: 1024px; /*максимальная ширина может иметь другое значение*/
-  padding: 0 15px;
-  margin: 0 auto;
+	width: 100%;
+	max-width: 1024px; /*максимальная ширина может иметь другое значение*/
+	padding: 0 15px;
+	margin: 0 auto;
 }
 
 .fotoBlock {
@@ -38,4 +38,28 @@ body {
 
 .tablisa {
 	margin-top: 7%;
+}
+
+table {
+	border-collapse: collapse;
+   }
+   
+th, td {
+	 border: 1px solid black;	 
+	 padding: 5px 4px;
+	 width: 100%;
+}
+
+thead {
+	background: #cba897;
+	#border: 2px solid #000000;
+}
+
+.subj {
+	border: 2px solid #000000;
+	width: 200px;
+}
+
+.padleft{
+	padding-left:20px;
 }
