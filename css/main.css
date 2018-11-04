@@ -48,6 +48,7 @@ th, td {
 	 border: 1px solid black;	 
 	 padding: 5px 4px;
 	 width: 100%;
+	 text-align: center;
 }
 
 thead {
@@ -62,4 +63,9 @@ thead {
 
 .padleft{
 	padding-left:20px;
+	text-align: left;
+}
+
+.colorblue {
+	color: #071c75;
 }
