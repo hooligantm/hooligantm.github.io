@@ -74,3 +74,14 @@ thead {
 	text-align: center;
 	font-weight: bold;
 }
+
+#spisok {
+	text-align:center;
+	font-weight: bold;
+	color: #000000;
+}
+
+#spisok p {
+	text-align: left;
+	padding-left: 43%;
+}
