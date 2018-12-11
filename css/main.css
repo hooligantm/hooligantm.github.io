@@ -17,13 +17,13 @@ body {
 	max-width: 1024px; /*максимальная ширина может иметь другое значение*/
 	padding: 0 15px;
 	margin: 0 auto;
+	height: 160px;
 }
 
 .fotoBlock {
 	float: left;
 	border:	solid;
 	width: 15%;
-	
 }
 
 .foto {
@@ -32,8 +32,20 @@ body {
 	
 .imyaBlock {
 	border: solid;
-	margin-left: 20%;
-	padding-left: 2%;
+	margin-left: 2%;
+	padding: 0 2% 0 2%;
+	width: 45%;
+	float:left;
+}
+
+.imyaBlock2 {
+	border: solid;
+	margin-left: 2%;
+	padding: 2% 2% 2% 2%;
+	width: 26%;
+	float:left;
+	#height: 100%;
+	text-align:center;
 }
 
 .tablisa {
@@ -49,6 +61,18 @@ th, td {
 	 padding: 5px 4px;
 	 width: 100%;
 	 text-align: center;
+}
+
+.header_months {
+	 font-weight:bold;
+}
+
+.months {
+	 float: left;
+	 padding: 3% 5% 0 4%;
+	 font-weight: bold;
+	 color: #071c75;
+	 font-size: 14px;
 }
 
 thead {
