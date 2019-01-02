@@ -115,3 +115,14 @@ thead {
 	padding: 3% 3%;
 	margin: 10% 35%;
 }
+.colorred {
+	color: red;
+	font-weight: bold;
+	background-color:green;
+}
+
+.chetvert {
+	background-color:#9fe2c1;
+	color:red;
+	font-weight: bold;
+}
