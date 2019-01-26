@@ -130,3 +130,6 @@ thead {
 a:active {
     color: #ff0000; /* Цвет активных ссылок */
    }
+ .studentName {
+	 color:#ffba00;
+ }
