@@ -126,3 +126,6 @@ thead {
 	color:red;
 	font-weight: bold;
 }
+A:active {
+    color: #ffff00; /* Цвет активных ссылок */
+   }
