@@ -36,6 +36,7 @@ body {
 	padding: 0 2% 0 2%;
 	width: 45%;
 	float:left;
+	text-align:center;
 }
 
 .imyaBlock2 {
@@ -126,6 +127,6 @@ thead {
 	color:red;
 	font-weight: bold;
 }
-A:active {
-    color: #ffff00; /* Цвет активных ссылок */
+a:active {
+    color: #ff0000; /* Цвет активных ссылок */
    }
